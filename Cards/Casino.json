@@ -1,8 +1,8 @@
 {
 	"$schema": "../schemas/card.schema.json",
-	"id": "examplemod_casino",
-	"nameTerm": "examplemod_casino_name",
-	"descriptionTerm": "examplemod_casino_description",
+	"id": "CasinoCard_casino",
+	"nameTerm": "CasinoCard_casino_name",
+	"descriptionTerm": "CasinoCard_casino_description",
 	"type": "Structures",
 	"icon": "RedPanda.png",
 	"value": 12,
